@@ -1,0 +1,38 @@
+_repo: The-Life-and-Times-of-Col.-Daniel-Boone-Hunter-Soldier-and-PioneerWith-Sketches-of-Simon-Kent__46227
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46227-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2014-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46227'
+  lccn: '07010447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kenton, Simon, 1755-1836 -- Juvenile literature'
+- !lcsh 'Frontier and pioneer life -- Kentucky -- Juvenile literature'
+- !lcc 'F396'
+- !lcsh 'Pioneers -- Kentucky -- Biography -- Juvenile literature'
+- !lcsh 'Wetzel, Lewis, 1763-1808 -- Juvenile literature'
+- !lcsh 'Boone, Daniel, 1734-1820 -- Juvenile literature'
+title: 'The Life and Times of Col. Daniel Boone, Hunter, Soldier, and Pioneer
+
+  With Sketches of Simon Kenton, Lewis Wetzel, and Other Leaders in the Settlement
+  of the West'
+url: http://www.gutenberg.org/ebooks/46227
